@@ -98,7 +98,7 @@ python -m unittest discover -s tests -v
 The supplied tests should finish with:
 
 ```text
-Ran 4 tests
+Ran 18 tests
 
 OK
 ```
